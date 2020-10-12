@@ -1,0 +1,22 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "description": "first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/vladnovikov/hexlet-js.git"
+  },
+  "keywords": [
+    "newbee"
+  ],
+  "author": "Vlad Novikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladnovikov/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/vladnovikov/hexlet-js#readme"
+}
